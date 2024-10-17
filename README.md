@@ -13,3 +13,4 @@ Repositório para armazenar resumos Git e GitHub
 |-------|---------|
 |Gravando alterações no repositório local| [Resumos]()
  alterei para ver
+ editei para testar
