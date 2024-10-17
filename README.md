@@ -12,5 +12,5 @@ Repositório para armazenar resumos Git e GitHub
 | Aulas | Resumos |
 |-------|---------|
 |Gravando alterações no repositório local| [Resumos]()
- alterei para ver
- editei para testar
+|Aula 1| [Resumo ]()|
+|Aula 2| [Resumo]()|
